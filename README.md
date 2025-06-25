@@ -32,8 +32,10 @@ This is a Streamlit-based chatbot application that allows users to interact with
 ```bash
 git clone https://github.com/jugal9124/Langchain-youtube-chatbot.git
 cd youtube-transcript-chatbot
+```
 
-## 📦 Run
+### 2. Run
 
 ```bash
 streamlit run streamlit_app.py
+```
